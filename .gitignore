@@ -1,0 +1,9 @@
+diabetes/final_project/Lib/
+diabetes/final_project/Scripts/
+diabetes/final_project/Include/
+diabetes/final_project/etc/
+diabetes/final_project/share/
+__pycache__/
+*.pyc
+.env
+
